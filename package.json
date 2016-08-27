@@ -1,0 +1,31 @@
+{
+  "name": "Feedback-server",
+  "version": "1.0.0",
+  "description": "Feedback Backend",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Guo<bill.guo@genesys.com>",
+  "license": "none",
+  "devDependencies": {
+    "apidoc": "^0.14.0",
+    "body-parser": "^1.13.3",
+    "connect-mongo": "^1.0.2",
+    "cors": "^2.7.1",
+    "express": "^4.6.1",
+    "express-session": "^1.12.1",
+    "grunt": "^0.4.5",
+    "grunt-apidoc": "^0.10.1",
+    "http-proxy": "^1.1.6",
+    "jsonwebtoken": "^5.4.1",
+    "lodash": "^2.4.1",
+    "mongoose": "^4.2.10",
+    "morgan": "^1.6.1",
+    "request": "^2.60.0",
+    "requirejs": "^2.1.14"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "mongoosastic": "^4.0.2"
+  }
+}
