@@ -1,4 +1,3 @@
-//init('feedback.log');
 var fs = require('fs');
 var output = module.exports = {};
 

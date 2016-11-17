@@ -16,7 +16,7 @@ function featureResponse(res, features) {
   } else {
     var response = {
       status: '1',
-      message: 'feautre data is not exist in the database'
+      message: 'feature data is not exist in the database'
     };
     res.json(response);
   }
